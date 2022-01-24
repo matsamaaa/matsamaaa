@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Matéo</h1>
 <h3 align="center">A young passionate JS & HTML/CSS developer !</h3>
 
-- 🔭 I’m currently working on [Nawashu & my portfolio](https://nawashu.xyz)
+<p align="center">- 🔭 I’m currently working on [Nawashu & my portfolio](https://nawashu.xyz)</p>
 
-- 🌱 I’m currently learning **Java to help minecraft server DracoWorld**
+<p align="center">- 🌱 I’m currently learning **Java to help minecraft server DracoWorld**</p>
 
-- 👯 I collaborate on [DracoWorld Hostings](https://dracoworld.cloud)
+<p align="center">- 👯 I collaborate on [DracoWorld Hostings](https://dracoworld.cloud)</p>
 
-- 🤝 I’m looking for help with [DracoWorld Hostings](https://dracoworld.cloud)
+<p align="center">- 🤝 I’m looking for help with [DracoWorld Hostings](https://dracoworld.cloud)</p>
 
-- 📫 How to reach me **mateosejourne@gmail.com**
+<p align="center">- 📫 How to reach me **mateosejourne@gmail.com**</p>
 
-- ⚡ Fun fact **I am young but determined**
+<p align="center">- ⚡ Fun fact **I am young but determined**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
