@@ -19,6 +19,8 @@
 </p>
 
 ### 🔥 Streak Stats
+![](https://github.com/matsamaaa/github-stats/blob/master/generated/languages.svg)
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=matsamaaa&theme=gruvbox" alt="matsamaaa"  /></p>
 
 <h3 align="left">Languages and Tools:</h3>
