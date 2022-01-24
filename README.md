@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matéo</h1>
-<h3 align="center">A young passionate JS & HTML/CSS developer !</h3>
+<h3>A young passionate JS & HTML/CSS developer !</h3>
 
 - 🔭 I’m currently working on [Nawashu & my portfolio](https://nawashu.xyz)
 
