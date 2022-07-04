@@ -1,4 +1,4 @@
-<p><img src="https://imgur.com/EfLlp1Y" alt="matsama banner"/></p>
+<p><img src="https://imgur.com/EfLlp1Y.png" alt="matsama banner"/></p>
 <h1 align="center">Hi 👋, I'm Matéo</h1>
 <h3>A young passionate JS & HTML/CSS developer !</h3>
 
