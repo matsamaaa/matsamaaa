@@ -1,15 +1,12 @@
+<p><img src="https://imgur.com/EfLlp1Y" alt="matsama banner"/></p>
 <h1 align="center">Hi 👋, I'm Matéo</h1>
 <h3>A young passionate JS & HTML/CSS developer !</h3>
 
-- 🔭 I’m currently working on [Nawashu & my portfolio](https://nawashu.xyz)
+- 🔭 I’m currently working on [Kiyomi](https://nawashu.xyz)
 
-- 🌱 I’m currently learning **Java to help minecraft server DracoWorld**
+- 🌱 I’m currently learning **Java for Minecraft** & **CSS Animations**
 
-- 👯 I collaborate on [DracoWorld Hostings](https://dracoworld.cloud)
-
-- 🤝 I’m looking for help with [DracoWorld Hostings](https://dracoworld.cloud)
-
-- 📫 How to reach me **mateosejourne@gmail.com**
+- 👯 I collaborate on [DracoWorld Hostings](http://discord.dracoworld.cloud)
   
 - ⚡ Fun fact **I am young but determined**
 
